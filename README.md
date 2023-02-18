@@ -18,7 +18,11 @@ To run this project, you will need to add the following environment variables to
 npm install
 ```
 
-- You have to clone for [this repo](https://github.com/leopico/voting-dao-backend.git).
+- You have to clone this repo.
+```shell
+https://github.com/leopico/voting-dao-backend.git
+```
+
 ```shell
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network goerli
