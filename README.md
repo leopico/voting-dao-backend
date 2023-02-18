@@ -2,6 +2,11 @@
 
 This pj was demo voting dao with hardhad framework.Then already testing on [Remix](http://remix.ethereum.org).
 
+- You have to clone this repo.
+```shell
+https://github.com/leopico/voting-dao-backend.git
+```
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -16,11 +21,6 @@ To run this project, you will need to add the following environment variables to
 
 ```shell
 npm install
-```
-
-- You have to clone this repo.
-```shell
-https://github.com/leopico/voting-dao-backend.git
 ```
 
 ```shell
