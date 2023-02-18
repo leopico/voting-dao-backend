@@ -1,4 +1,4 @@
-# Voting DAO dapp (demo with not qualified)
+# Voting DAO dapp with demo
 
 This pj was demo voting dao with hardhad framework.Then already testing on [Remix](http://remix.ethereum.org).
 
