@@ -34,9 +34,11 @@ npx hardhat verify  --network -goerli DEPLOYED_CONTRACT_ADDRESS
 
 - You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/voting-dao-frontend.git). Because of I linked for solidity abi-code with front_end folder.You can see on hardhat.config.js.And also you have to check ReadMe.md of frontend side.
 
+- Note You must deploy on your localhost because of have to assign contract address and abi.
 
 
-[deployed on vercel for frontend]().
+
+[deployed on vercel for frontend](https://voting-dao-frontend.vercel.app/).
 
 ## Acknowledgements
 
